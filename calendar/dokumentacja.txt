@@ -1,0 +1,1 @@
+api generujące ze strony http://www.weeia.p.lodz.pl kalendarz w formacie .ics
